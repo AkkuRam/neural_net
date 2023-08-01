@@ -5,7 +5,7 @@ to predict an XOR our input is going to be a [1 x 2] vector (i.e. [0, 0], [0, 1]
 
 The network gives out a single output, which corresponds to the [1x2] input given. Therefore the target output for each [1x2] vector should look like the 
 following:
-[0,0] = 0
-[0,1] = 1
-[1,0] = 1
-[1,1] = 0
+[0,0] = 0\\
+[0,1] = 1\\
+[1,0] = 1\\
+[1,1] = 0\\
